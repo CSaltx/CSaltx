@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Coby Schumitzky 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
