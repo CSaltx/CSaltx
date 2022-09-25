@@ -1,14 +1,4 @@
-###> Hi there, I'm Coby Schumitzky <span class="wave">👋</span>
-
-<div align="center">
- 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cobyts/)
-  [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/CSaltx)
- 
-  
-</div>
-
-<style>
+###> Hi there, I'm Coby Schumitzky <span class="wave" style="
 .wave {
   animation-name: wave-animation;  /* Name of @keyframes element below */
   animation-duration: .75s;  /* Wave speed */
@@ -29,8 +19,15 @@
   25% { transform: rotate( -10deg ) }
   75% { transform: rotate( 12deg ) }
   100% { transform: rotate( 0deg ) }
-}
-</style>
+}">👋</span>
+
+<div align="center">
+ 
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cobyts/)
+  [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/CSaltx)
+ 
+  
+</div>
 
 Glad to see you here!   [![visitors](https://visitor-badge.glitch.me/badge?page_id=${CSaltx})]
 
