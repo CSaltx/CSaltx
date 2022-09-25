@@ -1,9 +1,9 @@
 ### Hi there, I'm Coby Schumitzky 👋
 <p align="center">
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cobyts/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cobyts/)
   
 </p>
 
