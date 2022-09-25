@@ -2,7 +2,7 @@
 <div align="center">
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
-  [![Linkedin](https://badgen.net/badge/LinkedIn/red?icon=linkedin)](https://www.linkedin.com/in/cobyts/)
+  [![Linkedin](https://badgen.net/badge/LinkedIn/?icon=linkedin)](https://www.linkedin.com/in/cobyts/)
   [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](cschumit@lion.lmu.edu)
   
 </div>
