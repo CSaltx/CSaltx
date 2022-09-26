@@ -1,7 +1,5 @@
 ### > Hi there, I'm Coby Schumitzky <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="50"/>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300"/>
-</div>
+
 <div align="center">
  
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cobyts/)
