@@ -1,6 +1,6 @@
 ### > Hi there, I'm Coby Schumitzky 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw1CTLFLGwJU_h0Zi38hhQps&ust=1664240091716000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICHgs6fsfoCFQAAAAAdAAAAABAp" width="100"/>
 </div>
 <div align="center">
  
