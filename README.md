@@ -1,6 +1,6 @@
-### > Hi there, I'm Coby Schumitzky 👋
+### > Hi there, I'm Coby Schumitzky <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="50"/>
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw1CTLFLGwJU_h0Zi38hhQps&ust=1664240091716000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICHgs6fsfoCFQAAAAAdAAAAABAp" width="100"/>
+  <img src="" width="100"/>
 </div>
 <div align="center">
  
