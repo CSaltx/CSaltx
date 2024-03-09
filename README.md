@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my personal website<br>🤝 I'm currently looking to work on any projects so contact me if you have an idea<br>🥭 I'm currently learning more in-depth web dev and more on algorithms<br>💬 Ask me about anything, I love to talk or learn something new<br>⚡ Fun Fact: I play games competitively at my university
+🔭 I'm always learning!<br>🤝 I'm currently looking to work on any projects so contact me if you have an idea<br>🥭 I'm currently learning algorithm development and AI<br>💬 Ask me about anything, I love to talk or learn something new<br>⚡ Fun Fact: I play games competitively at my university
 
 
 ## 🌐 Socials:
